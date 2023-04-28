@@ -3,6 +3,7 @@
 This project aims to identify different types of terrains (such as forest, mountains, desert, etc.) using LSTM (Long Short-Term Memory) neural networks.
 
 ## Team Members: 
+TEAM 91
 - Chetana Chunduru, cchetan2@ncsu.edu
 - Rohith Aki, raki@ncsu.edu
 - Sai Niranjan Karthik Mulugu, smulugu@ncsu.edu
