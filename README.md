@@ -15,10 +15,6 @@ This project aims to identify different types of terrains (such as forest, mount
 - NumPy
 - Pandas
 
-## Dataset
-
-The dataset used in this project is obtained from [source] and contains images of various terrains. The images are labeled and split into train and test sets.
-
 ## Getting Started
 
 1. Clone this repository.
